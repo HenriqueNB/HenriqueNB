@@ -32,7 +32,7 @@
         </ul>
       </td>
       <td width="40%" align="center">
-        <img src="cream-messmer.gif" alt="mesmmerlogo" width="150" />
+        <img src="cream-messmer.gif" alt="mesmmerlogo" width="350" />
       </td>
     </tr>
   </table>
