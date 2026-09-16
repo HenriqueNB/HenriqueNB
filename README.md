@@ -1,6 +1,6 @@
 <!-- Banner Image Placeholder -->
 <div align="center">
-  <img src="https://images3.alphacoders.com/137/thumb-1920-1377226.jpg/1200x300/000000/39FF14?text=Welcome+to+My+GitHub" alt="Banner Profile" width="100%" />
+  <img src="1377226 (1).jpg" alt="Banner Profile" width="100%" />
 </div>
 
 <br />
@@ -13,7 +13,7 @@
 ### 💫 About Me
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO_AQUI">
+  <a href="https://github.com/HenriqueNB">
     <img src="https://komarev.com/ghpvc/?username=HenriqueNB&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
@@ -34,8 +34,7 @@
       </td>
       <td width="40%" align="center">
         <!-- Você pode trocar esse GIF por um avatar seu ou ilustração similar à da sua referência -->
-        <img src="https://tenor.com/view/cream-messmer-snake-elden-ring-winged-snake-gif-
-          4737752806276242376"alt="mesmmerlogo" width="150" />
+        <img src="https://media1.tenor.com/m/Qb_hE1u0m8gAAAAC/cream-messmer.gif" alt="mesmmerlogo" width="250" />
       </td>
     </tr>
   </table>
@@ -52,7 +51,7 @@
 
 ---
 
-### 💻 Languages & Tools I've Placed My Hands On
+### 💻 Linguagens e ferramentas com as quais trabalhei
 
 <p align="center">
   <!-- Front-end & Web -->
@@ -74,9 +73,9 @@
 
 <div align="center">
   <a href="https://github.com/HenriqueNB">
-    <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HenriqueNB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/SEU_USUARIO_AQUI">
+  <a href="https://github.com/HenriqueNB">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
   </a>
 </div>
@@ -84,7 +83,7 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO_AQUI">
+  <a href="https://github.com/HenriqueNB">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueNB&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
   </a>
 </div>
