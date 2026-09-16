@@ -5,11 +5,8 @@
 <br />
 
 <h1 align="center">José Henrique here 🔥 !</h1>
-<h3 align="center">Olá 👋 Eu sou o José Henrique</h3>
 
----
-
-### 💫 About Me
+### 💫 Sobre mim
 
 <p align="center">
   <a href="https://github.com/HenriqueNB">
@@ -40,7 +37,7 @@
 
 <br />
 
-### 🌟 Follow Me on:
+### 🌟 Me siga em:
 
 <p align="center">
   <a href="https://linkedin.com/in/josé-henrique-nascimento-bessa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
