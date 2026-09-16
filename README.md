@@ -1,6 +1,6 @@
 <!-- Banner Image Placeholder -->
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300/000000/39FF14?text=Welcome+to+My+GitHub" alt="Banner Profile" width="100%" />
+  <img src="https://images3.alphacoders.com/137/thumb-1920-1377226.jpg/1200x300/000000/39FF14?text=Welcome+to+My+GitHub" alt="Banner Profile" width="100%" />
 </div>
 
 <br />
@@ -34,7 +34,7 @@
       </td>
       <td width="40%" align="center">
         <!-- Você pode trocar esse GIF por um avatar seu ou ilustração similar à da sua referência -->
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face Emoji" width="150" />
+        <img src="https://i.pinimg.com/736x/8b/a2/0f/8ba20f128c2564828a40e6252098954e.jpg"alt="mesmmerlogo" width="150" />
       </td>
     </tr>
   </table>
@@ -72,11 +72,11 @@
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO_AQUI">
+  <a href="https://github.com/HenriqueNB">
     <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/SEU_USUARIO_AQUI">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
   </a>
 </div>
 
@@ -84,7 +84,7 @@
 
 <div align="center">
   <a href="https://github.com/SEU_USUARIO_AQUI">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueNB&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
   </a>
 </div>
 
