@@ -1,4 +1,3 @@
-<!-- Banner Image Placeholder -->
 <div align="center">
   <img src="1377226 (1).jpg" alt="Banner Profile" width="100%" />
 </div>
@@ -14,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/HenriqueNB">
-    <img src="https://komarev.com/ghpvc/?username=HenriqueNB&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=HenriqueNB&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" alt="Profile Views" />
   </a>
 </p>
 
@@ -33,18 +32,19 @@
         </ul>
       </td>
       <td width="40%" align="center">
-        <!-- Você pode trocar esse GIF por um avatar seu ou ilustração similar à da sua referência -->
-        <img src="https://media1.tenor.com/m/Qb_hE1u0m8gAAAAC/cream-messmer.gif" alt="mesmmerlogo" width="150" />
+        <img src="cream-messmer.gif" alt="mesmmerlogo" width="150" />
       </td>
     </tr>
   </table>
 </div>
 
+<br />
+
 ### 🌟 Follow Me on:
 
 <p align="right">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
@@ -52,17 +52,14 @@
 ### 💻 Linguagens e ferramentas com as quais trabalhei
 
 <p align="center">
-  <!-- Front-end & Web -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <!-- OS & Environment -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Terminal" />
-  <!-- Editors & Tools -->
-  <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&amp;logo=arch-linux&amp;logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="Bash/Terminal" />
+  <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&amp;logo=neovim&amp;logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
 </p>
 
 ---
@@ -71,10 +68,10 @@
 
 <div align="center">
   <a href="https://github.com/HenriqueNB">
-    <img src="https://github-readme-stats.vercel.app/api?username=HenriqueNB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HenriqueNB&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/HenriqueNB">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNB&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117" alt="Top Languages" />
   </a>
 </div>
 
@@ -82,16 +79,6 @@
 
 <div align="center">
   <a href="https://github.com/HenriqueNB">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueNB&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueNB&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117" alt="GitHub Streak" />
   </a>
 </div>
-
----
-
-### ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/SEU_USUARIO_AQUI">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" />
-  </a>
-</p>
