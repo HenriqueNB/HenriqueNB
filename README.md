@@ -8,7 +8,7 @@
 
 ### 💫 Sobre mim
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/HenriqueNB">
     <img src="https://komarev.com/ghpvc/?username=HenriqueNB&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" alt="Profile Views" />
   </a>
