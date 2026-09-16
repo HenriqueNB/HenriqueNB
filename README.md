@@ -27,24 +27,22 @@
         <ul>
           <li>🎓 Estudante universitário focando em Engenharia de Software, Álgebra Linear e Estatística Aplicada.</li>
           <li>🎮 Meu grande sonho e foco de carreira é me tornar um <b>Desenvolvedor de Jogos</b>.</li>
-          <li>💻 Usuário ávido de Linux (Archcraft) e apaixonado por otimizar meu fluxo de trabalho com editores como Neovim, LazyVim e Zed.</li>
+          <li>💻 Usuário ávido de Linux (Omarchy) e apaixonado por otimizar meu fluxo de trabalho com editores como Antigravity e LazyVim.</li>
           <li>🌱 Atualmente trabalhando em projetos de interface com React e Vite.</li>
           <li>📫 Como chegar até mim: <b>josenb2345@gmail.com</b></li>
         </ul>
       </td>
       <td width="40%" align="center">
         <!-- Você pode trocar esse GIF por um avatar seu ou ilustração similar à da sua referência -->
-        <img src="https://media1.tenor.com/m/Qb_hE1u0m8gAAAAC/cream-messmer.gif" alt="mesmmerlogo" width="250" />
+        <img src="https://media1.tenor.com/m/Qb_hE1u0m8gAAAAC/cream-messmer.gif" alt="mesmmerlogo" width="150" />
       </td>
     </tr>
   </table>
 </div>
 
-<br />
-
 ### 🌟 Follow Me on:
 
-<p align="center">
+<p align="right">
   <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
