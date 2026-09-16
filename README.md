@@ -63,13 +63,9 @@
 
 ### ⚡ GitHub Stats
 
+<<!-- Gráfico de Atividade (Com a linha em Verde Neon) -->
 <div align="center">
-  <a href="https://github.com/HenriqueNB">
-    <img src="https://github-readme-stats.vercel.app/api?username=HenriqueNB&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/HenriqueNB">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNB&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueNB&bg_color=0d1117&color=7aa2f7&line=39FF14&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br />
