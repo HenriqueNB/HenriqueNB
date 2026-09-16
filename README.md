@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/SEU_USUARIO_AQUI">
-    <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=HenriqueNB&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
@@ -34,7 +34,8 @@
       </td>
       <td width="40%" align="center">
         <!-- Você pode trocar esse GIF por um avatar seu ou ilustração similar à da sua referência -->
-        <img src="https://i.pinimg.com/736x/8b/a2/0f/8ba20f128c2564828a40e6252098954e.jpg"alt="mesmmerlogo" width="150" />
+        <img src="https://tenor.com/view/cream-messmer-snake-elden-ring-winged-snake-gif-
+          4737752806276242376"alt="mesmmerlogo" width="150" />
       </td>
     </tr>
   </table>
