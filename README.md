@@ -77,3 +77,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueNB&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117" alt="GitHub Streak" />
   </a>
 </div>
+
+<!-- Contribution snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake.svg" alt="Contributions" />
+  </picture>
+</div>
