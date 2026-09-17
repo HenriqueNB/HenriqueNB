@@ -4,7 +4,6 @@
 
 <br />
 
-<h1 align="center">Henrique Bessa here 🔥 !</h1>
 
 ### 💫 Sobre mim
 
