@@ -27,7 +27,7 @@
           <li>📫 Como chegar até mim: <b>josenb2345@gmail.com</b></li>
         </ul>
       </td>
-      <td width="40%" align="center">
+      <td width="45%" align="center">
         <img src="cream-messmer.gif" alt="mesmmerlogo" width="350" />
       </td>
     </tr>
